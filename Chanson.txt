@@ -3,4 +3,9 @@ Général Kenobi
 Miaouw fait le chat
 zazaaa
 
+<<<<<<< HEAD
 Le voisin travail sur mickael jackson
+=======
+ils sont gentil les professeur aujourd'hui
+mais c'est dommage que la formation arrive apres le 
+>>>>>>> couplet
